@@ -1,5 +1,6 @@
 # PRACTICE-3
 ADMIN DASHBOARD
 
-<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/32b4b1f8-30ad-4d8a-802b-e667cfb5e6d8" />
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/88116486-201b-4446-9427-2374ef4d5212" />
+
 
