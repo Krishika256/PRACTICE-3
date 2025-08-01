@@ -16,7 +16,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: black;
+    background-color:green;
     color: white;
     padding: 20px;
     grid-area: a;
@@ -40,7 +40,7 @@ main{
 }
 footer{
     grid-area: d;
-     background-color: black;
+     background-color: green;
      color: white;
    text-align: center;
    padding: 10px;
